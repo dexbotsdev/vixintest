@@ -21,7 +21,7 @@ export default createApp({
 			target: "browser",
 			base: "/_build",
 			plugins: () => [],
-		}
+		},
 		{
 			name: "websocket",
 			type: "http",
